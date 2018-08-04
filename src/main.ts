@@ -12,4 +12,3 @@ platformBrowserDynamic().bootstrapModule(AppModule).then(success=>console.log("A
 console.log("test");
 console.log("saifiqbal");
 console.log("Ang-2245");
-"
