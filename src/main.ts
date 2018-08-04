@@ -9,3 +9,5 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule).then(success=>console.log("App Module Started"))
 .catch(error=>console.log(error));
+console.log("test");
+console.log("saifiqbal");
